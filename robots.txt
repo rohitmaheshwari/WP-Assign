@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /Desktop:/Satish_Kumar_K173756_WPFa20Ass02/cv.html
